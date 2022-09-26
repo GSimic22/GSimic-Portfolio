@@ -113,7 +113,7 @@ img{
 
 .about-section h2 {
   font-size: 18px;
-  font-family: var(--default-font-family);
+  font-family: "Poppins", sans-serif;;
 }
 
 .about-section-content {
@@ -155,14 +155,13 @@ img{
 
 .content h2 {
   font-size: 18px;
-  font-family: var(--default-font-family);
+   font-family: "Poppins", sans-serif;);
 }
 
 .content h3 {
   font-size: 24px;
   line-height: 1.5;
-
-  font-family: var(--default-font-family);
+font-family: "Poppins", sans-serif;;
 }
 
 .content p {
@@ -171,4 +170,12 @@ img{
 
 .content {
   margin: 30px;
+}
+
+.sourcecode {
+  font-size: 10px;
+   font-family: "Poppins", sans-serif;
+   color:#F673A1;
+   text-align: center;
+
 }
