@@ -1,0 +1,84 @@
+body {
+  background: linear-gradient(
+    110.5deg,
+    rgba(248, 196, 249, 0.66) 22.8%,
+    rgba(253, 122, 4, 0.15) 64.6%
+  );
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h1,
+footer,
+h4,
+.intro {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+footer,
+h4,
+.intro {
+  font-size: 40px;
+}
+h2,
+h3,
+p {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.primary-link,
+.secondary-link {
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background: #e8b0fe;
+  color: white;
+}
+
+.primary-link {
+  display: block;
+  width: 120px;
+  margin: auto;
+  text-align: center;
+}
+
+.social-media {
+  color: slategrey;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.inquiry {
+  border: 1px solid slategray;
+  padding: 2px 4px 2px 4px;
+}
+
+.email-link {
+  font-family: "Poppins", sans-serif;
+  color: #e8b0fe;
+}
+
+.email-link hover {
+  cursor: pointer;
+  color: black;
+}
+
+.weather {
+  border: 1px solid slategray;
+}
+
+.navbar {
+  background: linear-gradient(
+    110.5deg,
+    rgba(248, 196, 249, 0.66) 22.8%,
+    rgba(253, 122, 4, 0.15) 64.6%
+  );
+  font-family: "Poppins", sans-serif;
+}
