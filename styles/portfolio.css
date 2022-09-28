@@ -45,6 +45,7 @@ p {
   width: 120px;
   margin: auto;
   text-align: center;
+  box-shadow: 14px 15px 5px 0.5 ;
 }
 
 .social-media {
