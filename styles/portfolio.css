@@ -128,7 +128,9 @@ img{
 
   .about-section {
     text-align: center;
-    padding: 0;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+}
   }
 
   .project-desciption {
