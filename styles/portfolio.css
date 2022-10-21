@@ -1,9 +1,6 @@
 body {
-  background: linear-gradient(
-    110.5deg,
-    rgba(248, 196, 249, 0.66) 22.8%,
-    rgba(253, 122, 4, 0.15) 64.6%
-  );
+
+ background: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
 }
 
 h1 {
@@ -38,7 +35,7 @@ p {
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
-  background: #e8b0fe;
+  background: #4B4A5A;
   color: white;
    box-shadow: 10px 10px 5px slategrey;
 }
@@ -64,7 +61,7 @@ p {
 
 footer .email-link {
   font-family: "Poppins", sans-serif;
-  color: #e8b0fe;
+  color: #4B4A5A;
   display: block;
   margin:auto
 }
@@ -74,11 +71,7 @@ footer .email-link {
 }
 
 .navbar {
-  background: linear-gradient(
-    110.5deg,
-    rgba(248, 196, 249, 0.66) 22.8%,
-    rgba(253, 122, 4, 0.15) 64.6%
-  );
+ background: radial-gradient(circle at 10% 20%, rgb(255, 246, 236) 39.5%, rgba(100, 46, 122, 0.23) 100.2%);
   font-family: "Poppins", sans-serif;
 }
 
@@ -172,7 +165,7 @@ font-family: "Poppins", sans-serif;;
 .sourcecode {
   font-size: 10px;
    font-family: "Poppins", sans-serif;
-   color:#F673A1;
+   color:#4B4A5A;
    text-align: center;
    display: block;
 
@@ -181,7 +174,7 @@ font-family: "Poppins", sans-serif;;
 
 footer .social-links a {
   margin: 0 20px;
-  color:  #e8b0fe;
+  color:  #4B4A5A;
   padding: 10px 14px;
   border-radius: 50%;
   font-size: 18px;
@@ -193,5 +186,5 @@ footer .social-links a:hover {
 }
 
 .social-button {
-  color: #A969E1;
+  color: #4B4A5A;
 }
