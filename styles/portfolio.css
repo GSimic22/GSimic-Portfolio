@@ -16,11 +16,13 @@ h4,
   font-family: "Playfair Display", serif;
   font-weight: bold;
   text-align: center;
+ 
 }
 
 h4,
 .intro {
   font-size: 40px;
+  margin-top: 20;
 }
 
 h2,
